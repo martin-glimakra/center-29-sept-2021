@@ -1,0 +1,14 @@
+.box {
+    background-color: brown;
+    height: 200px;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.blue {
+    background-color: darkblue;
+}
+
+/* https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Aligning_Items_in_a_Flex_Container */
